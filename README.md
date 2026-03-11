@@ -32,7 +32,10 @@ O programa irá gerar gráficos automaticamente com base nas colunas numéricas.
 
 
 
+## Executavel
 
+#criei um executavel com o codigo pra quem quiser rodar ele pra testar 
+https://drive.google.com/file/d/15ze-9kJL_b9d0H9ysCH33EVZD1otszUZ/view?usp=sharing
 
 
 
